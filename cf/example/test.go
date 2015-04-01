@@ -8,9 +8,9 @@ import (
     "os"
     "strings"
     "strconv"
-    "github.com/lilee/tasty/cf/model"
-    "github.com/lilee/tasty/cf/recommender"
-    "github.com/lilee/tasty/cf/similarity"
+    "github.com/denghongcai/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/recommender"
+    "github.com/denghongcai/tasty/cf/similarity"
 )
 
 var (

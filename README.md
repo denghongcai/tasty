@@ -24,9 +24,9 @@ package main
 
 import (
     "fmt"
-    "github.com/lilee/tasty/cf/model"
-    "github.com/lilee/tasty/cf/recomender"
-    "github.com/lilee/tasty/cf/similarity"
+    "github.com/denghongcai/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/recomender"
+    "github.com/denghongcai/tasty/cf/similarity"
 )
 
 func main() {

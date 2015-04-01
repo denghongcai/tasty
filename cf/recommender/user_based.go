@@ -1,10 +1,10 @@
 package recommender
 
 import (
-    "github.com/lilee/tasty/cf"
-    "github.com/lilee/tasty/cf/model"
-    "github.com/lilee/tasty/cf/similarity"
-    "github.com/lilee/tasty/cf/utils"
+    "github.com/denghongcai/tasty/cf"
+    "github.com/denghongcai/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/similarity"
+    "github.com/denghongcai/tasty/cf/utils"
 )
 
 func NewGenericUserBasedRecommender(m model.DataModel, n UserNeighborhood, s similarity.UserSimilarity) Recommender {

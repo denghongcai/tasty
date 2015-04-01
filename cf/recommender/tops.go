@@ -4,8 +4,8 @@ import (
     "container/heap"
     "sort"
 
-    "github.com/lilee/tasty/cf"
-    "github.com/lilee/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf"
+    "github.com/denghongcai/tasty/cf/model"
 )
 
 type estimator interface {

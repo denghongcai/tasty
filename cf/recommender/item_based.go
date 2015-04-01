@@ -1,9 +1,9 @@
 package recommender
 
 import (
-    "github.com/lilee/tasty/cf/model"
-    "github.com/lilee/tasty/cf/similarity"
-    "github.com/lilee/tasty/cf/utils"
+    "github.com/denghongcai/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/similarity"
+    "github.com/denghongcai/tasty/cf/utils"
 )
 
 func NewGenericItemBasedRecommender(m model.DataModel, s similarity.ItemSimilarity) Recommender {

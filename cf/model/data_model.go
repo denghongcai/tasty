@@ -8,8 +8,8 @@ import (
     "strconv"
     "strings"
 
-    "github.com/lilee/tasty/cf"
-    "github.com/lilee/tasty/cf/utils"
+    "github.com/denghongcai/tasty/cf"
+    "github.com/denghongcai/tasty/cf/utils"
 )
 
 type genericDataModelImpl struct {

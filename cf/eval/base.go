@@ -1,8 +1,8 @@
 package eval
 
 import (
-    "github.com/lilee/tasty/cf/model"
-    "github.com/lilee/tasty/cf/recommender"
+    "github.com/denghongcai/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/recommender"
 )
 
 type baseRecommenderEvaluator struct {

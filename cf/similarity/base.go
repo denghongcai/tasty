@@ -1,8 +1,8 @@
 package similarity
 
 import (
-    "github.com/lilee/tasty/cf"
-    "github.com/lilee/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf"
+    "github.com/denghongcai/tasty/cf/model"
 )
 
 // Several subclasses in this package implement this method to actually compute the similarity from figures

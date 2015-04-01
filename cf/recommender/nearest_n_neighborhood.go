@@ -1,9 +1,9 @@
 package recommender
 
 import (
-    "github.com/lilee/tasty/cf"
-    "github.com/lilee/tasty/cf/model"
-    "github.com/lilee/tasty/cf/similarity"
+    "github.com/denghongcai/tasty/cf"
+    "github.com/denghongcai/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/similarity"
 )
 
 type NearestNUserNeighborhood struct {

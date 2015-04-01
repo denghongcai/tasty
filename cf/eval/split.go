@@ -2,7 +2,7 @@ package eval
 
 import (
     "math/rand"
-    "github.com/lilee/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/model"
 )
 
 func SplitTrainingAndTest(m model.DataModel, trainingPercentage, evaluationPercentage float32) (model.PreferenceArrayMap, model.PreferenceArrayMap) {

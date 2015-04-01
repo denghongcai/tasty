@@ -1,7 +1,7 @@
 package recommender
 
 import (
-    "github.com/lilee/tasty/cf/model"
+    "github.com/denghongcai/tasty/cf/model"
 )
 
 type Recommender interface {
